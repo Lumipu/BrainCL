@@ -1,1 +1,0 @@
-This folder stores runtime log files.

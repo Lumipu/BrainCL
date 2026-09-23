@@ -1,1 +1,0 @@
-This folder stores terminal log files.
